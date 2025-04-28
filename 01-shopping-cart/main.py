@@ -135,13 +135,13 @@ def Menu():
 # Menu
 def ver_menu():
     print("🏪 MENU 🏪 \n ¿Qué deseas hacer?\n \n"
-          + "1. Ver catálogo\n"
-          + "2. Agregar producto al carrito\n"
-          + "3. Eliminar producto del carrito\n"
-          + "4. Vaciar carrito\n "
-          + "5. Mostrar carrito\n "
-          + "6. Finalizar compra\n "
-          + "7. Salir" ) 
+        + " 1. Ver catálogo\n"
+        + " 2. Agregar producto al carrito\n"
+        + " 3. Eliminar producto del carrito\n"
+        + " 4. Vaciar carrito\n "
+        + "5. Mostrar carrito\n "
+        + "6. Finalizar compra\n "
+        + "7. Salir" ) 
     
 # Funciones de Validacion
 
